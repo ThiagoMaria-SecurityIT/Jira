@@ -1,2 +1,1 @@
-Jira has the option to add the tools we use in dailly to their platform.
-So lets test. 
+Jira has the option to add the tools we use daily to their platform. So let's test. 
